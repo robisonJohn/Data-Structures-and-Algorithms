@@ -1,0 +1,5 @@
+unit: 1
+section: javascript
+type: exercise
+prereqs: basic datatypes (including arrays), iterators (basic)
+orderingId: 400
