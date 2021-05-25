@@ -1,16 +1,25 @@
+# Homework Submission Template
 | **Self Assessment**       |     |
 | :------------------------ | :-- |
+| Comfort level             | ?/5 |
 | HW Complete?              | Y   |
 | Challenge Bonus Complete? | P   |
 | CSS Bonus Complete?       | N/A |
-| Comfort level             | 3/5 |
 
 _Y = Yes, N = No, P = Partial, N/A = Not Applicable_
 
-**Win:** It took me a while to understand `Array.map`, but once I grasped the callback concept it was smooth as John Coltrane Jazz.
+## Wins
 
-**Struggle:** Passing a function as an argument without execution of the function was complex to understand.
+Did you solve this on your own, without Google's help? Describe the wins you had during tonight's homework assignment.
 
-**Questions:** Do I have to put the parentheses while passing the function name in the parameters?
+## Struggles
 
-**Comments:** Loved the lesson, but I'm a little bit stuck with resolving promises... some extra material and exercises would help.
+Were you stuck on a question/concept? Describe any difficulties that you had with this assignment.
+
+## Questions
+
+If you have any questions about this assignment or for the instructors, please add them here!
+
+## Comments
+
+If you have any comments/feedback you want to share or express about the assignment, here's the space where you can.
